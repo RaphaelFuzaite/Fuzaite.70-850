@@ -1,0 +1,1 @@
+Definir e responder aos códigos de erro; lançar uma exceção; solicitar verificações de nulos; implementar blocos try-catch-finally

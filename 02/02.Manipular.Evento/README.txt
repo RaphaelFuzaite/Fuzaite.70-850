@@ -1,0 +1,1 @@
+Manipular eventos comuns expostos por DOM (OnBlur, OnFocus, OnClick); declarar e manipular eventos com bolhas; manipular um evento usando uma função anônima

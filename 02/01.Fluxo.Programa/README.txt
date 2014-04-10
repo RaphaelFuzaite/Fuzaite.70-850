@@ -1,0 +1,1 @@
+Iterar em coleções e itens da matriz; gerenciar decisões do programa usando instruções switch, if/then e operadores; avaliar expressões
